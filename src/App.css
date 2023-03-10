@@ -1,0 +1,11 @@
+
+.hero-image {
+  height: 200px;
+  aspect-ratio: auto;
+}
+
+.hero-display {
+  height: 300px;
+  /* background-color: blue; */
+}
+
